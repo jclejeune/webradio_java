@@ -1,0 +1,4 @@
+Radio FIP|http://direct.fipradio.fr/live/fip-midfi.mp3
+France Inter|http://direct.franceinter.fr/live/franceinter-midfi.mp3
+Shonan Beach FM|http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
+Radio Nacional|https://www.radionacional.com.ar/category/lra-51-jachal
