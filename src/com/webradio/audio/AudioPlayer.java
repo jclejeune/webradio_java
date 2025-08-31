@@ -29,9 +29,9 @@ public class AudioPlayer {
                 // currentProcess.waitFor();
                 
                 // Option 2: Avec mpv
-                // ProcessBuilder pb = new ProcessBuilder("mpv", "--no-video", radio.getUrl());
-                // currentProcess = pb.start();
-                // currentProcess.waitFor();
+                ProcessBuilder pb = new ProcessBuilder("mpv", "--no-video", radio.getUrl());
+                currentProcess = pb.start();
+                currentProcess.waitFor();
                 
                 // Option 3: Avec ffplay (partie de ffmpeg)
                 // ProcessBuilder pb = new ProcessBuilder("ffplay", "-nodisp", "-autoexit", radio.getUrl());

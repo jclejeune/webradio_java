@@ -1,4 +1,13 @@
-Radio FIP|http://direct.fipradio.fr/live/fip-midfi.mp3
-France Inter|http://direct.franceinter.fr/live/franceinter-midfi.mp3
 Shonan Beach FM|http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
 Radio Nacional|https://www.radionacional.com.ar/category/lra-51-jachal
+CHOI 981 Radio X|https://lb0-stream.radiox981.ca/choi.mp3
+Soma FM|https://ice1.somafm.com/gsclassic-128-mp3
+Radio Cajamarca|https://stream-172.zeno.fm/u961zukt7k0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1OTYxenVrdDdrMHV2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ii1wc1BfazQ4UU5TNF9TV2g4X2Y3cHciLCJpYXQiOjE3NDMxNTE5OTYsImV4cCI6MTc0MzE1MjA1Nn0.P_KuSMv6mfeuBkFLw2rDzUzibmJ1xkMvZmP6_LFodCU
+Radio Moris|https://azc.radiomoris.com:8010/radio.mp3
+Radio Pilmaiqu|https://streaming.chiloestreaming.com:10977/
+FM Kahoku 78.7|http://radio.kahoku.net:8000/
+Dance Wave Retro|http://stream3.dancewave.online:8080/retrodance.mp3
+Soma FM Metal Detector|http://ice6.somafm.com/metal-128-mp3
+Radio Vexin Val de Seine|https://rvvs.ice.infomaniak.ch/rvvs-64.aac
+Capital London|https://media-ice.musicradio.com/CapitalMP3
+J-Rock PowerPlay|http://kathy.torontocast.com:3340/
