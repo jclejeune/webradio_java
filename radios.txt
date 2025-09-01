@@ -1,5 +1,4 @@
 Shonan Beach FM|http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
-Radio Nacional|https://www.radionacional.com.ar/category/lra-51-jachal
 CHOI 981 Radio X|https://lb0-stream.radiox981.ca/choi.mp3
 Soma FM|https://ice1.somafm.com/gsclassic-128-mp3
 Radio Cajamarca|https://stream-172.zeno.fm/u961zukt7k0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1OTYxenVrdDdrMHV2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ii1wc1BfazQ4UU5TNF9TV2g4X2Y3cHciLCJpYXQiOjE3NDMxNTE5OTYsImV4cCI6MTc0MzE1MjA1Nn0.P_KuSMv6mfeuBkFLw2rDzUzibmJ1xkMvZmP6_LFodCU

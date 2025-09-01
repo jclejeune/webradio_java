@@ -24,16 +24,20 @@ public class AudioPlayer {
                 // Exemples d'implémentations possibles:
                 
                 // Option 1: Avec VLC
-                // ProcessBuilder pb = new ProcessBuilder("vlc", "--intf", "dummy", radio.getUrl());
-                // currentProcess = pb.start();
-                // currentProcess.waitFor();
-                
-                // Option 2: Avec mpv
-                ProcessBuilder pb = new ProcessBuilder("mpv", "--no-video", radio.getUrl());
+                // scoop install vlc
+                ProcessBuilder pb = new ProcessBuilder("vlc", "--intf", "dummy", radio.getUrl());
                 currentProcess = pb.start();
                 currentProcess.waitFor();
                 
+                // Option 2: Avec mpv
+                //scoop install mpv
+                // ProcessBuilder pb = new ProcessBuilder("mpv", "--no-video", radio.getUrl());
+                // 1currentProcess = pb.start();
+                // currentProcess.waitFor();
+                
                 // Option 3: Avec ffplay (partie de ffmpeg)
+                //scoop install ffmpeg
+                //le process ne s'arrête pas.
                 // ProcessBuilder pb = new ProcessBuilder("ffplay", "-nodisp", "-autoexit", radio.getUrl());
                 // currentProcess = pb.start();
                 // currentProcess.waitFor();

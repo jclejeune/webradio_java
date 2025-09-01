@@ -27,7 +27,18 @@ public class WebRadioUI {
         DarkTheme.apply();
         
         frame = new JFrame("🎵 WebRadio Player");
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
+        frame.addWindowListener(new WindowAdapter() {
+            @Override
+            public void windowClosing(WindowEvent e) {
+                // Stoppe la radio si elle joue
+                stopRadio();
+                // Ferme la fenêtre
+                frame.dispose();
+                System.exit(0); // quitte proprement
+            }
+        });
+        
         frame.setLayout(new BorderLayout());
         
         // Barre de statut
