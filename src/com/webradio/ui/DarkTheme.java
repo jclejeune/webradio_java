@@ -45,7 +45,7 @@ public class DarkTheme {
         
         label.setBorder(new LineBorder(BORDER, 2));
         label.setHorizontalAlignment(JLabel.CENTER);
-        label.setPreferredSize(new Dimension(300, 60));
+        label.setPreferredSize(new Dimension(300, 200));
         return label;
     }
     
